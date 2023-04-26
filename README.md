@@ -1,2 +1,2 @@
-# Appium & Android Studio
+# Appium
 Praktyka/ćwiczenia
